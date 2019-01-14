@@ -46,7 +46,7 @@ class App extends React.Component {
     <div>
       <div className="wrapper">
         <div className="main">
-          <div className="container">
+          <div className="container-fluid">
             <div className="row">
               <div className="col-5 title-container">
                 <Titles />
